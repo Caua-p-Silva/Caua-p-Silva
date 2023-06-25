@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Cauã Pereira da Silva
+- 👀 I'm interested in programming and programming for fun
+- 🌱 I’m currently learning HTML, CSS and JavaScript
